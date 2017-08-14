@@ -1,1 +1,1 @@
-    chmod +x tumblr_scraper && sudo mv tumblr /usr/sbin
+`chmod +x tumblr_scraper && sudo mv tumblr /usr/sbin`
