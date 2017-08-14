@@ -7,8 +7,7 @@ import argparse
 import urlparse
 import json
 import requests
-
-from tumblr_scraper import __version__
+__version__ = '1.0.0'
 
 def uprint(msg, newline=True):
     """
